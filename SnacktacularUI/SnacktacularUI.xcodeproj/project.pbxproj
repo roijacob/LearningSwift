@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FB6CF70F2E3DFBC700C251D2 /* PhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB6CF70E2E3DFBC700C251D2 /* PhotoView.swift */; };
 		FBCD483D2E2B6EFF00D66466 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = FBCD483C2E2B6EFF00D66466 /* FirebaseAuth */; };
 		FBCD483F2E2B6EFF00D66466 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = FBCD483E2E2B6EFF00D66466 /* FirebaseFirestore */; };
 		FBCD48412E2B6EFF00D66466 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = FBCD48402E2B6EFF00D66466 /* FirebaseStorage */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FB6CF70E2E3DFBC700C251D2 /* PhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoView.swift; sourceTree = "<group>"; };
 		FBCD482D2E2B6E0600D66466 /* SnacktacularUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SnacktacularUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBD2BBA52E35CF01009B3B2A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FBD2BBA62E35CF01009B3B2A /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				FBD2BBA72E35CF01009B3B2A /* LoginView.swift */,
 				FBD2BBAE2E35CF5E009B3B2A /* ListView.swift */,
 				FBD2BBB22E35D80C009B3B2A /* SpotDetailView.swift */,
+				FB6CF70E2E3DFBC700C251D2 /* PhotoView.swift */,
 				FBD2BBA52E35CF01009B3B2A /* Assets.xcassets */,
 				FBD2BBA62E35CF01009B3B2A /* GoogleService-Info.plist */,
 			);
@@ -158,6 +161,7 @@
 			files = (
 				FBD2BBB32E35D80C009B3B2A /* SpotDetailView.swift in Sources */,
 				FBD2BBAA2E35CF01009B3B2A /* LoginView.swift in Sources */,
+				FB6CF70F2E3DFBC700C251D2 /* PhotoView.swift in Sources */,
 				FBD2BBB52E35DA17009B3B2A /* SpotViewModel.swift in Sources */,
 				FBD2BBAB2E35CF01009B3B2A /* SnacktacularUIApp.swift in Sources */,
 				FBD2BBAF2E35CF5E009B3B2A /* ListView.swift in Sources */,
